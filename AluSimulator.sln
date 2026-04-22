@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11709.299 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluSimulator", "AluSimulator.csproj", "{B8A9D456-2DC4-18F4-C086-E6928DB906B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A9D456-2DC4-18F4-C086-E6928DB906B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A9D456-2DC4-18F4-C086-E6928DB906B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A9D456-2DC4-18F4-C086-E6928DB906B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A9D456-2DC4-18F4-C086-E6928DB906B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C963B7F3-0850-456E-B68F-E4A397FADCED}
+	EndGlobalSection
+EndGlobal
